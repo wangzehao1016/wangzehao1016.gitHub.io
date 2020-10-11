@@ -257,7 +257,7 @@ img {
 
 .content p {
 	font-size: 1.2em;
-	line-height: 1.6;
+	line-height: 1.5;
 	font-weight: 300;
 	padding: 8% 8%;
 	text-align: justify;
@@ -271,6 +271,12 @@ img {
 	.no-js .container {
 		padding: 0;
 	}
+	.content p {
+        font-size: 0.7em;
+    }
+    .text h1 {
+        font-size: 1.0em;
+    }
 }
 
 @media screen and (max-width: 400px){
@@ -278,4 +284,10 @@ img {
 	.content {
 		font-size: 35%;
 	}
+	.content p {
+	    font-size: 0.5em;
+	}
+	.text h1 {
+        font-size: 0.8em;
+    }
 }
