@@ -3,7 +3,6 @@
 	width: 400px;
 	height: 300px;
 	position: relative;
-	background: #fff;
 	z-index: 100;
 }
 
@@ -37,7 +36,7 @@
 }
 
 .bb-content {
-	background: #fff;
+	background: #003366;
 }
 
 .bb-inner {
@@ -115,5 +114,5 @@
 	top: 0;
 	left: 0;
 	display: none;
-	background: #fff;
+	background: #003366;
 }
