@@ -272,10 +272,7 @@ img {
 		padding: 0;
 	}
 	.content p {
-        font-size: 0.7em;
-    }
-    .text h1 {
-        font-size: 1.0em;
+        font-size: 0.9em;
     }
 }
 
@@ -285,9 +282,6 @@ img {
 		font-size: 35%;
 	}
 	.content p {
-	    font-size: 0.5em;
+	    font-size: 0.7em;
 	}
-	.text h1 {
-        font-size: 0.8em;
-    }
 }
