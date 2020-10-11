@@ -256,7 +256,7 @@ img {
 }
 
 .content p {
-	font-size: 0.5em;
+	font-size: 1.2em;
 	line-height: 1.6;
 	font-weight: 300;
 	padding: 8% 8%;
@@ -276,6 +276,6 @@ img {
 @media screen and (max-width: 400px){
 	.menu-panel,
 	.content {
-		font-size: 75%;
+		font-size: 35%;
 	}
 }
